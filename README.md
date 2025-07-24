@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mady!
+# 👋 Hi, I'm Madyson!
 I'm an aspiring **technical writer** who specializes in turning technical tools and processes into clear, beginner-friendly guides. I enjoy creating step-by-step tutorials and making complex instructions easy to understand.
 
 My strengths include:
