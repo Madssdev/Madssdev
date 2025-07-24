@@ -15,6 +15,7 @@ I'm currently building my skills in:
 
 ## 🧠 Projects
 - 🌐 [Build a Website with HTML/CSS][(https://docs.google.com/document/d/1dixpkX11NW0o49CzBY5OG_NIPi2p8zGmt2XNI7WMj68/edit?usp=sharing)
+- 🖥️ [How to Clear Your Browsing History and Cookies (Chrome)][(https://docs.google.com/document/d/1PlXJkUE0wp9qJpsq-f-qV22K--FlmOSZFJxk1RRxFaY/edit?usp=sharing)]
 
 ## 🎓 Learning
 - Google Technical Writing Course (in progress)
